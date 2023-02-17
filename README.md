@@ -21,4 +21,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-placido&show_icons=true&locale=en&layout=compact" alt="lucas-placido" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=lucas-placido&" alt="lucas-placido" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucas-placido&" alt="lucas-placido" /></p>
