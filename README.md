@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucas-placido&label=Profile%20views&color=0e75b6&style=flat" alt="lucas-placido" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucas-placido" alt="lucas-placido" /></a> </p>
-
 - 🔭 I’m currently working on **Salary Analysis**
 
 - 🌱 I’m currently learning **CI/CD**
