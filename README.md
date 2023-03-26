@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Salary Analysis**
 
-- 🌱 I’m currently learning **CI/CD**
+- 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **Python,Machine Learning, Docker, SQL**
 
