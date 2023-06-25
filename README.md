@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucas-placido&label=Profile%20views&color=0e75b6&style=flat" alt="lucas-placido" /> </p>
 
-- 🔭 I’m currently working on **Salary Analysis**
+- 🔭 I’m currently working on **RandomUserAPI**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **AWS and Terraform**
 
 - 💬 Ask me about **Python,Machine Learning, Docker, SQL**
 
